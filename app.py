@@ -25,7 +25,7 @@ def format_response(cc, mm, yy, cvv, time_taken):
     return {
         "cc": f"{cc}|{mm}|{yy}|{cvv}",
         "status": "Declined ❌",
-        "response": "Soon",
+        "response": "Tere mommy ki chut mai  thuk laga k cum inside kr k tere jaisa ek aur rand ppaida kruga",
         "result": "Declined 🚫",
         "time": time_taken,
         "gateway": "Site Based 1$"
